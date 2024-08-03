@@ -84,6 +84,7 @@ plugins=(
   git
   pyenv
   thefuck
+  zsh-autocomplete
   zsh-autosuggestions
   zsh-syntax-highlighting
 )
