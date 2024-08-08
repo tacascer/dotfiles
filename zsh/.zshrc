@@ -83,6 +83,7 @@ ZSH_CUSTOM=~/.oh-my-zsh-custom
 plugins=(
   bazel
   git
+  gradle
   pyenv
   thefuck
   zsh-autocomplete
