@@ -8,7 +8,7 @@ fi
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:$HOME/.local/bin:/usr/local/bin:$PATH
 export PYENV_ROOT="$HOME/.pyenv"
-export PATH="$PYENV_ROOT/bin:$HOME/go/bin:/usr/local/bin:$PATH"
+export PATH="$PYENV_ROOT/bin:$HOME/.cargo/bin:$HOME/go/bin:/usr/local/bin:$PATH"
 eval "$(pyenv init --path)"
 
 # Path to your Oh My Zsh installation.
